@@ -1,0 +1,45 @@
+{
+    "smocha":[
+        {
+        "id": 0,
+        "name": "Chicken wrap",
+        "restaurant": "Kwa Gavo",
+        "web": "www.kwagavo.com",
+        "description": "Chips, chicken, smokie wrapped in chapattis",
+        "ingredients":["chicken, chips, chapattis, smokie"],
+        "address":[
+            {
+            "address.id":"0",
+            "number":"0733472829",
+            "line1":"USIU",
+            "line2":"Totts",
+            "postcode":"54020-8766",
+            "city":"Nairobi",
+            "country":"Kenya"
+            }
+        ]
+        },
+        {
+            "id": 1,
+            "name": "Smokie pasua",
+            "restaurant": "Kwa Gavo",
+            "web": "www.kwagavo.com",
+            "description": "Smokie filled with love",
+            "ingredients":["smokie, chapattis"],
+            "address":[
+                {
+                    "address.id":"1",
+                    "number":"0723289290",
+                    "line1":"KCA",
+                    "line2":"Absa",
+                    "postcode":"54020-84839",
+                    "city":"Nairobi",
+                    "country":"Kenya"
+
+                }
+            ]
+        }
+
+
+    ]
+}
